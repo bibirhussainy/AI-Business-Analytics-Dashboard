@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Customer Type,Quantity,Sales,Cost,Profit
+2025-01-01,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-01-01,Desk,Furniture,Cork,Returning Customer,4,1800,1120,680
+2025-01-02,Desk,Furniture,Limerick,Returning Customer,5,2250,1400,850
+2025-01-02,Laptop,Technology,Limerick,Returning Customer,5,6000,4250,1750
+2025-01-02,Headphones,Accessories,Limerick,New Customer,5,600,275,325
+2025-01-03,Mouse,Accessories,Galway,New Customer,4,180,72,108
+2025-01-03,Keyboard,Accessories,Limerick,Returning Customer,7,560,245,315
+2025-01-04,Office Chair,Furniture,Limerick,Returning Customer,4,1200,760,440
+2025-01-04,Monitor,Technology,Cork,New Customer,1,350,220,130
+2025-01-04,Headphones,Accessories,Cork,Returning Customer,7,840,385,455
+2025-01-05,Office Chair,Furniture,Galway,Returning Customer,4,1200,760,440
+2025-01-05,Office Chair,Furniture,Limerick,New Customer,2,600,380,220
+2025-01-07,Laptop,Technology,Galway,New Customer,5,6000,4250,1750
+2025-01-07,Headphones,Accessories,Limerick,Returning Customer,8,960,440,520
+2025-01-08,Keyboard,Accessories,Dublin,New Customer,5,400,175,225
+2025-01-08,Office Chair,Furniture,Galway,Returning Customer,2,600,380,220
+2025-01-09,Monitor,Technology,Limerick,Returning Customer,3,1050,660,390
+2025-01-09,Mouse,Accessories,Limerick,New Customer,3,135,54,81
+2025-01-09,Keyboard,Accessories,Dublin,New Customer,5,400,175,225
+2025-01-10,Mouse,Accessories,Cork,New Customer,4,180,72,108
+2025-01-11,Keyboard,Accessories,Cork,Returning Customer,4,320,140,180
+2025-01-11,Office Chair,Furniture,Limerick,Returning Customer,3,900,570,330
+2025-01-12,Keyboard,Accessories,Galway,New Customer,2,160,70,90
+2025-01-13,Printer,Technology,Dublin,New Customer,6,1500,960,540
+2025-01-13,Mouse,Accessories,Dublin,Returning Customer,6,270,108,162
+2025-01-13,Mouse,Accessories,Galway,Returning Customer,7,315,126,189
+2025-01-14,Desk,Furniture,Dublin,Returning Customer,2,900,560,340
+2025-01-14,Monitor,Technology,Dublin,Returning Customer,6,2100,1320,780
+2025-01-14,Mouse,Accessories,Galway,New Customer,3,135,54,81
+2025-01-15,Keyboard,Accessories,Galway,Returning Customer,5,400,175,225
+2025-01-15,Laptop,Technology,Dublin,Returning Customer,6,7200,5100,2100
+2025-01-15,Monitor,Technology,Cork,Returning Customer,5,1750,1100,650
+2025-01-15,Mouse,Accessories,Limerick,Returning Customer,8,360,144,216
+2025-01-15,Desk,Furniture,Cork,New Customer,1,450,280,170
+2025-01-16,Desk,Furniture,Cork,New Customer,8,3600,2240,1360
+2025-01-16,Headphones,Accessories,Limerick,Returning Customer,1,120,55,65
+2025-01-17,Desk,Furniture,Cork,New Customer,1,450,280,170
+2025-01-17,Office Chair,Furniture,Cork,Returning Customer,2,600,380,220
+2025-01-17,Laptop,Technology,Cork,New Customer,2,2400,1700,700
+2025-01-17,Printer,Technology,Galway,New Customer,1,250,160,90
+2025-01-18,Mouse,Accessories,Dublin,Returning Customer,3,135,54,81
+2025-01-18,Mouse,Accessories,Dublin,New Customer,8,360,144,216
+2025-01-18,Headphones,Accessories,Galway,Returning Customer,1,120,55,65
+2025-01-18,Mouse,Accessories,Limerick,Returning Customer,5,225,90,135
+2025-01-19,Keyboard,Accessories,Dublin,Returning Customer,6,480,210,270
+2025-01-19,Laptop,Technology,Galway,New Customer,2,2400,1700,700
+2025-01-19,Headphones,Accessories,Dublin,New Customer,4,480,220,260
+2025-01-20,Headphones,Accessories,Dublin,New Customer,8,960,440,520
+2025-01-20,Keyboard,Accessories,Limerick,Returning Customer,6,480,210,270
+2025-01-20,Laptop,Technology,Galway,New Customer,6,7200,5100,2100
+2025-01-20,Monitor,Technology,Galway,Returning Customer,7,2450,1540,910
+2025-01-20,Desk,Furniture,Dublin,Returning Customer,2,900,560,340
+2025-01-21,Office Chair,Furniture,Cork,New Customer,4,1200,760,440
+2025-01-21,Office Chair,Furniture,Dublin,Returning Customer,7,2100,1330,770
+2025-01-21,Laptop,Technology,Galway,Returning Customer,7,8400,5950,2450
+2025-01-21,Headphones,Accessories,Galway,Returning Customer,6,720,330,390
+2025-01-22,Office Chair,Furniture,Limerick,Returning Customer,5,1500,950,550
+2025-01-23,Monitor,Technology,Galway,New Customer,1,350,220,130
+2025-01-23,Headphones,Accessories,Limerick,Returning Customer,8,960,440,520
+2025-01-23,Desk,Furniture,Cork,Returning Customer,1,450,280,170
+2025-01-23,Desk,Furniture,Limerick,Returning Customer,4,1800,1120,680
+2025-01-24,Printer,Technology,Limerick,New Customer,6,1500,960,540
+2025-01-24,Keyboard,Accessories,Cork,Returning Customer,8,640,280,360
+2025-01-24,Mouse,Accessories,Dublin,Returning Customer,3,135,54,81
+2025-01-25,Office Chair,Furniture,Dublin,Returning Customer,5,1500,950,550
+2025-01-26,Printer,Technology,Dublin,New Customer,3,750,480,270
+2025-01-26,Headphones,Accessories,Galway,New Customer,7,840,385,455
+2025-01-28,Desk,Furniture,Cork,Returning Customer,6,2700,1680,1020
+2025-01-28,Desk,Furniture,Dublin,Returning Customer,8,3600,2240,1360
+2025-01-28,Laptop,Technology,Galway,New Customer,4,4800,3400,1400
+2025-01-28,Keyboard,Accessories,Cork,Returning Customer,3,240,105,135
+2025-01-29,Headphones,Accessories,Dublin,Returning Customer,7,840,385,455
+2025-01-30,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-01-30,Desk,Furniture,Cork,Returning Customer,7,3150,1960,1190
+2025-01-31,Office Chair,Furniture,Dublin,New Customer,3,900,570,330
+2025-01-31,Mouse,Accessories,Limerick,New Customer,5,225,90,135
+2025-02-01,Keyboard,Accessories,Limerick,New Customer,7,560,245,315
+2025-02-01,Mouse,Accessories,Cork,Returning Customer,3,135,54,81
+2025-02-01,Printer,Technology,Galway,New Customer,2,500,320,180
+2025-02-02,Office Chair,Furniture,Galway,Returning Customer,5,1500,950,550
+2025-02-02,Office Chair,Furniture,Cork,New Customer,1,300,190,110
+2025-02-02,Desk,Furniture,Limerick,New Customer,4,1800,1120,680
+2025-02-03,Headphones,Accessories,Cork,New Customer,7,840,385,455
+2025-02-03,Mouse,Accessories,Cork,New Customer,8,360,144,216
+2025-02-03,Headphones,Accessories,Limerick,Returning Customer,7,840,385,455
+2025-02-03,Office Chair,Furniture,Limerick,Returning Customer,2,600,380,220
+2025-02-04,Monitor,Technology,Limerick,New Customer,1,350,220,130
+2025-02-05,Keyboard,Accessories,Dublin,New Customer,1,80,35,45
+2025-02-05,Headphones,Accessories,Galway,Returning Customer,7,840,385,455
+2025-02-05,Headphones,Accessories,Limerick,Returning Customer,6,720,330,390
+2025-02-06,Desk,Furniture,Limerick,New Customer,1,450,280,170
+2025-02-06,Laptop,Technology,Galway,Returning Customer,3,3600,2550,1050
+2025-02-07,Printer,Technology,Galway,Returning Customer,6,1500,960,540
+2025-02-07,Laptop,Technology,Galway,New Customer,3,3600,2550,1050
+2025-02-07,Office Chair,Furniture,Cork,New Customer,4,1200,760,440
+2025-02-08,Laptop,Technology,Limerick,New Customer,1,1200,850,350
+2025-02-08,Keyboard,Accessories,Limerick,Returning Customer,4,320,140,180
+2025-02-08,Printer,Technology,Cork,Returning Customer,6,1500,960,540
+2025-02-09,Keyboard,Accessories,Limerick,New Customer,4,320,140,180
+2025-02-10,Desk,Furniture,Limerick,New Customer,4,1800,1120,680
+2025-02-10,Printer,Technology,Dublin,Returning Customer,1,250,160,90
+2025-02-10,Keyboard,Accessories,Cork,Returning Customer,6,480,210,270
+2025-02-10,Printer,Technology,Galway,Returning Customer,1,250,160,90
+2025-02-10,Mouse,Accessories,Limerick,Returning Customer,2,90,36,54
+2025-02-11,Printer,Technology,Cork,Returning Customer,6,1500,960,540
+2025-02-11,Office Chair,Furniture,Dublin,Returning Customer,4,1200,760,440
+2025-02-12,Headphones,Accessories,Cork,New Customer,2,240,110,130
+2025-02-12,Office Chair,Furniture,Dublin,Returning Customer,3,900,570,330
+2025-02-12,Desk,Furniture,Limerick,New Customer,2,900,560,340
+2025-02-13,Mouse,Accessories,Limerick,Returning Customer,8,360,144,216
+2025-02-13,Mouse,Accessories,Limerick,New Customer,2,90,36,54
+2025-02-13,Office Chair,Furniture,Cork,New Customer,7,2100,1330,770
+2025-02-13,Mouse,Accessories,Limerick,New Customer,3,135,54,81
+2025-02-14,Desk,Furniture,Limerick,New Customer,2,900,560,340
+2025-02-14,Monitor,Technology,Dublin,Returning Customer,3,1050,660,390
+2025-02-14,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-02-15,Printer,Technology,Galway,New Customer,8,2000,1280,720
+2025-02-15,Desk,Furniture,Cork,Returning Customer,2,900,560,340
+2025-02-16,Keyboard,Accessories,Limerick,New Customer,1,80,35,45
+2025-02-16,Desk,Furniture,Galway,New Customer,1,450,280,170
+2025-02-17,Desk,Furniture,Dublin,New Customer,6,2700,1680,1020
+2025-02-17,Desk,Furniture,Dublin,Returning Customer,4,1800,1120,680
+2025-02-17,Desk,Furniture,Galway,New Customer,2,900,560,340
+2025-02-17,Mouse,Accessories,Limerick,New Customer,2,90,36,54
+2025-02-19,Laptop,Technology,Limerick,Returning Customer,5,6000,4250,1750
+2025-02-19,Desk,Furniture,Galway,Returning Customer,6,2700,1680,1020
+2025-02-19,Desk,Furniture,Limerick,Returning Customer,6,2700,1680,1020
+2025-02-20,Office Chair,Furniture,Dublin,Returning Customer,6,1800,1140,660
+2025-02-20,Office Chair,Furniture,Cork,New Customer,3,900,570,330
+2025-02-20,Monitor,Technology,Cork,Returning Customer,8,2800,1760,1040
+2025-02-20,Desk,Furniture,Dublin,Returning Customer,4,1800,1120,680
+2025-02-21,Headphones,Accessories,Limerick,Returning Customer,4,480,220,260
+2025-02-21,Printer,Technology,Cork,Returning Customer,1,250,160,90
+2025-02-21,Mouse,Accessories,Galway,New Customer,7,315,126,189
+2025-02-22,Monitor,Technology,Limerick,New Customer,2,700,440,260
+2025-02-22,Monitor,Technology,Galway,Returning Customer,6,2100,1320,780
+2025-02-22,Monitor,Technology,Dublin,Returning Customer,7,2450,1540,910
+2025-02-23,Headphones,Accessories,Dublin,New Customer,7,840,385,455
+2025-02-23,Monitor,Technology,Cork,Returning Customer,6,2100,1320,780
+2025-02-23,Monitor,Technology,Dublin,New Customer,5,1750,1100,650
+2025-02-23,Mouse,Accessories,Dublin,New Customer,7,315,126,189
+2025-02-24,Laptop,Technology,Galway,New Customer,2,2400,1700,700
+2025-02-24,Keyboard,Accessories,Dublin,Returning Customer,5,400,175,225
+2025-02-24,Monitor,Technology,Galway,Returning Customer,1,350,220,130
+2025-02-24,Headphones,Accessories,Cork,New Customer,4,480,220,260
+2025-02-25,Desk,Furniture,Galway,Returning Customer,3,1350,840,510
+2025-02-25,Mouse,Accessories,Dublin,Returning Customer,8,360,144,216
+2025-02-25,Laptop,Technology,Limerick,Returning Customer,5,6000,4250,1750
+2025-02-25,Desk,Furniture,Dublin,Returning Customer,1,450,280,170
+2025-02-26,Printer,Technology,Galway,Returning Customer,8,2000,1280,720
+2025-02-26,Keyboard,Accessories,Limerick,New Customer,3,240,105,135
+2025-02-26,Office Chair,Furniture,Galway,Returning Customer,2,600,380,220
+2025-02-26,Headphones,Accessories,Galway,New Customer,8,960,440,520
+2025-02-26,Monitor,Technology,Dublin,New Customer,2,700,440,260
+2025-02-27,Laptop,Technology,Cork,Returning Customer,4,4800,3400,1400
+2025-02-27,Desk,Furniture,Dublin,New Customer,8,3600,2240,1360
+2025-02-27,Keyboard,Accessories,Cork,New Customer,1,80,35,45
+2025-02-27,Mouse,Accessories,Dublin,New Customer,8,360,144,216
+2025-02-28,Office Chair,Furniture,Cork,New Customer,8,2400,1520,880
+2025-02-28,Monitor,Technology,Limerick,New Customer,7,2450,1540,910
+2025-02-28,Mouse,Accessories,Galway,New Customer,3,135,54,81
+2025-03-01,Monitor,Technology,Galway,Returning Customer,3,1050,660,390
+2025-03-01,Monitor,Technology,Dublin,New Customer,1,350,220,130
+2025-03-02,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-03-02,Keyboard,Accessories,Cork,New Customer,7,560,245,315
+2025-03-02,Printer,Technology,Dublin,Returning Customer,1,250,160,90
+2025-03-03,Office Chair,Furniture,Limerick,Returning Customer,4,1200,760,440
+2025-03-03,Printer,Technology,Cork,New Customer,3,750,480,270
+2025-03-03,Mouse,Accessories,Dublin,Returning Customer,1,45,18,27
+2025-03-04,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-03-04,Office Chair,Furniture,Cork,Returning Customer,4,1200,760,440
+2025-03-04,Printer,Technology,Limerick,Returning Customer,3,750,480,270
+2025-03-04,Mouse,Accessories,Limerick,New Customer,7,315,126,189
+2025-03-07,Monitor,Technology,Galway,Returning Customer,7,2450,1540,910
+2025-03-07,Headphones,Accessories,Galway,New Customer,3,360,165,195
+2025-03-08,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-03-08,Desk,Furniture,Limerick,Returning Customer,7,3150,1960,1190
+2025-03-09,Laptop,Technology,Cork,Returning Customer,6,7200,5100,2100
+2025-03-09,Office Chair,Furniture,Cork,Returning Customer,2,600,380,220
+2025-03-09,Keyboard,Accessories,Dublin,Returning Customer,1,80,35,45
+2025-03-09,Monitor,Technology,Cork,Returning Customer,1,350,220,130
+2025-03-10,Headphones,Accessories,Galway,Returning Customer,8,960,440,520
+2025-03-11,Keyboard,Accessories,Limerick,Returning Customer,8,640,280,360
+2025-03-11,Desk,Furniture,Galway,New Customer,1,450,280,170
+2025-03-11,Desk,Furniture,Limerick,Returning Customer,6,2700,1680,1020
+2025-03-11,Keyboard,Accessories,Limerick,Returning Customer,7,560,245,315
+2025-03-12,Monitor,Technology,Cork,New Customer,4,1400,880,520
+2025-03-12,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-03-13,Headphones,Accessories,Galway,Returning Customer,5,600,275,325
+2025-03-13,Headphones,Accessories,Galway,New Customer,4,480,220,260
+2025-03-13,Keyboard,Accessories,Limerick,New Customer,6,480,210,270
+2025-03-14,Office Chair,Furniture,Galway,Returning Customer,5,1500,950,550
+2025-03-14,Headphones,Accessories,Dublin,New Customer,2,240,110,130
+2025-03-15,Mouse,Accessories,Dublin,New Customer,7,315,126,189
+2025-03-15,Mouse,Accessories,Galway,Returning Customer,7,315,126,189
+2025-03-15,Printer,Technology,Cork,New Customer,1,250,160,90
+2025-03-16,Monitor,Technology,Limerick,Returning Customer,3,1050,660,390
+2025-03-17,Monitor,Technology,Dublin,Returning Customer,2,700,440,260
+2025-03-17,Monitor,Technology,Galway,Returning Customer,4,1400,880,520
+2025-03-18,Monitor,Technology,Limerick,New Customer,3,1050,660,390
+2025-03-18,Headphones,Accessories,Cork,Returning Customer,7,840,385,455
+2025-03-18,Keyboard,Accessories,Galway,New Customer,6,480,210,270
+2025-03-18,Printer,Technology,Cork,Returning Customer,1,250,160,90
+2025-03-20,Office Chair,Furniture,Dublin,Returning Customer,3,900,570,330
+2025-03-20,Laptop,Technology,Dublin,Returning Customer,6,7200,5100,2100
+2025-03-21,Keyboard,Accessories,Dublin,Returning Customer,1,80,35,45
+2025-03-22,Printer,Technology,Galway,New Customer,2,500,320,180
+2025-03-22,Laptop,Technology,Galway,New Customer,2,2400,1700,700
+2025-03-23,Headphones,Accessories,Galway,Returning Customer,2,240,110,130
+2025-03-23,Printer,Technology,Limerick,Returning Customer,8,2000,1280,720
+2025-03-24,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-03-24,Monitor,Technology,Galway,Returning Customer,2,700,440,260
+2025-03-25,Printer,Technology,Galway,New Customer,7,1750,1120,630
+2025-03-26,Keyboard,Accessories,Cork,New Customer,4,320,140,180
+2025-03-26,Printer,Technology,Galway,Returning Customer,8,2000,1280,720
+2025-03-26,Office Chair,Furniture,Dublin,New Customer,8,2400,1520,880
+2025-03-27,Laptop,Technology,Galway,Returning Customer,7,8400,5950,2450
+2025-03-27,Printer,Technology,Limerick,New Customer,6,1500,960,540
+2025-03-27,Monitor,Technology,Limerick,New Customer,6,2100,1320,780
+2025-03-27,Monitor,Technology,Galway,Returning Customer,1,350,220,130
+2025-03-28,Desk,Furniture,Limerick,New Customer,7,3150,1960,1190
+2025-03-29,Mouse,Accessories,Cork,New Customer,7,315,126,189
+2025-03-30,Mouse,Accessories,Dublin,New Customer,4,180,72,108
+2025-03-30,Printer,Technology,Galway,Returning Customer,6,1500,960,540
+2025-03-30,Printer,Technology,Galway,Returning Customer,2,500,320,180
+2025-03-31,Desk,Furniture,Dublin,Returning Customer,3,1350,840,510
+2025-03-31,Keyboard,Accessories,Cork,Returning Customer,7,560,245,315
+2025-03-31,Printer,Technology,Dublin,New Customer,1,250,160,90
+2025-03-31,Office Chair,Furniture,Cork,Returning Customer,4,1200,760,440
+2025-04-01,Desk,Furniture,Cork,Returning Customer,1,450,280,170
+2025-04-01,Printer,Technology,Limerick,Returning Customer,8,2000,1280,720
+2025-04-02,Laptop,Technology,Cork,Returning Customer,7,8400,5950,2450
+2025-04-02,Laptop,Technology,Dublin,Returning Customer,4,4800,3400,1400
+2025-04-03,Desk,Furniture,Cork,Returning Customer,6,2700,1680,1020
+2025-04-03,Mouse,Accessories,Limerick,New Customer,5,225,90,135
+2025-04-03,Laptop,Technology,Dublin,Returning Customer,8,9600,6800,2800
+2025-04-04,Monitor,Technology,Limerick,Returning Customer,7,2450,1540,910
+2025-04-04,Headphones,Accessories,Cork,New Customer,7,840,385,455
+2025-04-04,Mouse,Accessories,Cork,New Customer,8,360,144,216
+2025-04-05,Mouse,Accessories,Cork,New Customer,5,225,90,135
+2025-04-05,Laptop,Technology,Cork,Returning Customer,6,7200,5100,2100
+2025-04-05,Laptop,Technology,Cork,Returning Customer,3,3600,2550,1050
+2025-04-05,Keyboard,Accessories,Galway,New Customer,8,640,280,360
+2025-04-06,Keyboard,Accessories,Limerick,New Customer,2,160,70,90
+2025-04-06,Desk,Furniture,Limerick,New Customer,8,3600,2240,1360
+2025-04-06,Monitor,Technology,Dublin,New Customer,6,2100,1320,780
+2025-04-06,Printer,Technology,Dublin,Returning Customer,7,1750,1120,630
+2025-04-06,Printer,Technology,Galway,Returning Customer,8,2000,1280,720
+2025-04-06,Headphones,Accessories,Limerick,New Customer,5,600,275,325
+2025-04-06,Monitor,Technology,Cork,Returning Customer,2,700,440,260
+2025-04-06,Keyboard,Accessories,Dublin,New Customer,6,480,210,270
+2025-04-06,Headphones,Accessories,Galway,Returning Customer,4,480,220,260
+2025-04-07,Monitor,Technology,Cork,Returning Customer,3,1050,660,390
+2025-04-07,Office Chair,Furniture,Cork,New Customer,1,300,190,110
+2025-04-08,Desk,Furniture,Galway,Returning Customer,5,2250,1400,850
+2025-04-09,Monitor,Technology,Limerick,Returning Customer,1,350,220,130
+2025-04-09,Keyboard,Accessories,Limerick,New Customer,1,80,35,45
+2025-04-09,Mouse,Accessories,Cork,New Customer,3,135,54,81
+2025-04-09,Monitor,Technology,Cork,Returning Customer,6,2100,1320,780
+2025-04-09,Laptop,Technology,Galway,New Customer,7,8400,5950,2450
+2025-04-10,Office Chair,Furniture,Limerick,Returning Customer,8,2400,1520,880
+2025-04-10,Monitor,Technology,Galway,Returning Customer,7,2450,1540,910
+2025-04-10,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-04-11,Printer,Technology,Galway,Returning Customer,2,500,320,180
+2025-04-11,Mouse,Accessories,Dublin,Returning Customer,3,135,54,81
+2025-04-12,Monitor,Technology,Dublin,Returning Customer,4,1400,880,520
+2025-04-13,Keyboard,Accessories,Limerick,New Customer,4,320,140,180
+2025-04-13,Monitor,Technology,Dublin,Returning Customer,3,1050,660,390
+2025-04-14,Printer,Technology,Galway,New Customer,4,1000,640,360
+2025-04-14,Keyboard,Accessories,Cork,New Customer,2,160,70,90
+2025-04-15,Laptop,Technology,Limerick,New Customer,6,7200,5100,2100
+2025-04-15,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-04-15,Headphones,Accessories,Galway,Returning Customer,3,360,165,195
+2025-04-16,Desk,Furniture,Dublin,Returning Customer,7,3150,1960,1190
+2025-04-16,Printer,Technology,Limerick,New Customer,6,1500,960,540
+2025-04-17,Mouse,Accessories,Dublin,New Customer,5,225,90,135
+2025-04-18,Headphones,Accessories,Cork,New Customer,6,720,330,390
+2025-04-18,Keyboard,Accessories,Limerick,New Customer,3,240,105,135
+2025-04-18,Headphones,Accessories,Cork,New Customer,2,240,110,130
+2025-04-19,Printer,Technology,Dublin,New Customer,5,1250,800,450
+2025-04-20,Desk,Furniture,Cork,Returning Customer,1,450,280,170
+2025-04-20,Keyboard,Accessories,Limerick,New Customer,7,560,245,315
+2025-04-21,Keyboard,Accessories,Dublin,Returning Customer,7,560,245,315
+2025-04-22,Laptop,Technology,Galway,New Customer,1,1200,850,350
+2025-04-22,Printer,Technology,Cork,Returning Customer,8,2000,1280,720
+2025-04-22,Printer,Technology,Dublin,Returning Customer,6,1500,960,540
+2025-04-23,Headphones,Accessories,Limerick,New Customer,2,240,110,130
+2025-04-23,Keyboard,Accessories,Dublin,New Customer,8,640,280,360
+2025-04-23,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-04-23,Keyboard,Accessories,Dublin,New Customer,8,640,280,360
+2025-04-23,Mouse,Accessories,Cork,New Customer,5,225,90,135
+2025-04-23,Keyboard,Accessories,Cork,Returning Customer,8,640,280,360
+2025-04-23,Printer,Technology,Dublin,Returning Customer,4,1000,640,360
+2025-04-24,Mouse,Accessories,Dublin,Returning Customer,6,270,108,162
+2025-04-24,Office Chair,Furniture,Dublin,Returning Customer,2,600,380,220
+2025-04-24,Desk,Furniture,Galway,New Customer,5,2250,1400,850
+2025-04-24,Printer,Technology,Dublin,Returning Customer,6,1500,960,540
+2025-04-24,Printer,Technology,Galway,New Customer,6,1500,960,540
+2025-04-24,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-04-24,Office Chair,Furniture,Galway,Returning Customer,4,1200,760,440
+2025-04-25,Keyboard,Accessories,Dublin,Returning Customer,2,160,70,90
+2025-04-25,Monitor,Technology,Galway,New Customer,6,2100,1320,780
+2025-04-25,Printer,Technology,Limerick,Returning Customer,6,1500,960,540
+2025-04-25,Headphones,Accessories,Limerick,New Customer,3,360,165,195
+2025-04-25,Laptop,Technology,Dublin,Returning Customer,7,8400,5950,2450
+2025-04-26,Mouse,Accessories,Dublin,New Customer,3,135,54,81
+2025-04-26,Headphones,Accessories,Cork,New Customer,1,120,55,65
+2025-04-27,Laptop,Technology,Dublin,New Customer,1,1200,850,350
+2025-04-28,Mouse,Accessories,Limerick,New Customer,5,225,90,135
+2025-04-28,Laptop,Technology,Dublin,New Customer,5,6000,4250,1750
+2025-04-28,Monitor,Technology,Cork,New Customer,5,1750,1100,650
+2025-04-29,Headphones,Accessories,Limerick,New Customer,5,600,275,325
+2025-04-29,Desk,Furniture,Cork,New Customer,4,1800,1120,680
+2025-04-29,Printer,Technology,Limerick,Returning Customer,5,1250,800,450
+2025-04-30,Mouse,Accessories,Cork,New Customer,6,270,108,162
+2025-04-30,Mouse,Accessories,Limerick,New Customer,1,45,18,27
+2025-04-30,Desk,Furniture,Galway,Returning Customer,1,450,280,170
+2025-04-30,Office Chair,Furniture,Cork,Returning Customer,6,1800,1140,660
+2025-04-30,Mouse,Accessories,Limerick,New Customer,5,225,90,135
+2025-05-01,Laptop,Technology,Dublin,New Customer,1,1200,850,350
+2025-05-01,Monitor,Technology,Limerick,Returning Customer,8,2800,1760,1040
+2025-05-01,Office Chair,Furniture,Limerick,New Customer,6,1800,1140,660
+2025-05-01,Keyboard,Accessories,Limerick,Returning Customer,7,560,245,315
+2025-05-02,Keyboard,Accessories,Limerick,Returning Customer,7,560,245,315
+2025-05-02,Monitor,Technology,Limerick,Returning Customer,1,350,220,130
+2025-05-02,Headphones,Accessories,Dublin,New Customer,2,240,110,130
+2025-05-02,Office Chair,Furniture,Dublin,Returning Customer,6,1800,1140,660
+2025-05-03,Laptop,Technology,Dublin,New Customer,4,4800,3400,1400
+2025-05-03,Headphones,Accessories,Cork,Returning Customer,7,840,385,455
+2025-05-03,Laptop,Technology,Dublin,Returning Customer,3,3600,2550,1050
+2025-05-03,Keyboard,Accessories,Cork,New Customer,2,160,70,90
+2025-05-03,Headphones,Accessories,Cork,Returning Customer,2,240,110,130
+2025-05-04,Mouse,Accessories,Cork,Returning Customer,5,225,90,135
+2025-05-04,Headphones,Accessories,Cork,New Customer,4,480,220,260
+2025-05-04,Desk,Furniture,Cork,Returning Customer,8,3600,2240,1360
+2025-05-04,Monitor,Technology,Cork,New Customer,6,2100,1320,780
+2025-05-04,Mouse,Accessories,Dublin,New Customer,6,270,108,162
+2025-05-05,Keyboard,Accessories,Dublin,Returning Customer,1,80,35,45
+2025-05-05,Headphones,Accessories,Galway,New Customer,4,480,220,260
+2025-05-05,Printer,Technology,Cork,New Customer,7,1750,1120,630
+2025-05-05,Keyboard,Accessories,Dublin,New Customer,4,320,140,180
+2025-05-05,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-05-05,Laptop,Technology,Cork,New Customer,3,3600,2550,1050
+2025-05-06,Printer,Technology,Limerick,Returning Customer,2,500,320,180
+2025-05-06,Laptop,Technology,Limerick,New Customer,7,8400,5950,2450
+2025-05-07,Monitor,Technology,Galway,New Customer,2,700,440,260
+2025-05-07,Headphones,Accessories,Limerick,Returning Customer,7,840,385,455
+2025-05-07,Monitor,Technology,Galway,New Customer,8,2800,1760,1040
+2025-05-07,Desk,Furniture,Cork,Returning Customer,8,3600,2240,1360
+2025-05-08,Desk,Furniture,Galway,New Customer,6,2700,1680,1020
+2025-05-08,Office Chair,Furniture,Dublin,New Customer,3,900,570,330
+2025-05-08,Keyboard,Accessories,Galway,New Customer,6,480,210,270
+2025-05-09,Laptop,Technology,Galway,New Customer,8,9600,6800,2800
+2025-05-09,Mouse,Accessories,Cork,Returning Customer,8,360,144,216
+2025-05-09,Laptop,Technology,Dublin,New Customer,7,8400,5950,2450
+2025-05-09,Laptop,Technology,Limerick,Returning Customer,8,9600,6800,2800
+2025-05-10,Office Chair,Furniture,Limerick,New Customer,2,600,380,220
+2025-05-10,Headphones,Accessories,Limerick,New Customer,6,720,330,390
+2025-05-10,Keyboard,Accessories,Dublin,New Customer,6,480,210,270
+2025-05-10,Laptop,Technology,Dublin,Returning Customer,6,7200,5100,2100
+2025-05-10,Laptop,Technology,Galway,Returning Customer,4,4800,3400,1400
+2025-05-11,Laptop,Technology,Dublin,New Customer,4,4800,3400,1400
+2025-05-12,Monitor,Technology,Dublin,Returning Customer,1,350,220,130
+2025-05-12,Mouse,Accessories,Cork,New Customer,3,135,54,81
+2025-05-12,Mouse,Accessories,Dublin,New Customer,1,45,18,27
+2025-05-12,Headphones,Accessories,Galway,Returning Customer,1,120,55,65
+2025-05-13,Keyboard,Accessories,Dublin,Returning Customer,7,560,245,315
+2025-05-14,Keyboard,Accessories,Dublin,New Customer,7,560,245,315
+2025-05-14,Office Chair,Furniture,Cork,Returning Customer,1,300,190,110
+2025-05-14,Headphones,Accessories,Cork,New Customer,4,480,220,260
+2025-05-14,Printer,Technology,Galway,Returning Customer,4,1000,640,360
+2025-05-15,Keyboard,Accessories,Galway,New Customer,2,160,70,90
+2025-05-15,Monitor,Technology,Dublin,New Customer,2,700,440,260
+2025-05-16,Printer,Technology,Dublin,New Customer,1,250,160,90
+2025-05-16,Mouse,Accessories,Dublin,Returning Customer,4,180,72,108
+2025-05-17,Office Chair,Furniture,Dublin,Returning Customer,5,1500,950,550
+2025-05-18,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-05-18,Monitor,Technology,Galway,Returning Customer,1,350,220,130
+2025-05-18,Office Chair,Furniture,Galway,Returning Customer,1,300,190,110
+2025-05-18,Keyboard,Accessories,Dublin,New Customer,8,640,280,360
+2025-05-19,Keyboard,Accessories,Galway,New Customer,1,80,35,45
+2025-05-20,Printer,Technology,Limerick,New Customer,3,750,480,270
+2025-05-20,Mouse,Accessories,Galway,Returning Customer,2,90,36,54
+2025-05-20,Desk,Furniture,Limerick,New Customer,8,3600,2240,1360
+2025-05-20,Monitor,Technology,Dublin,Returning Customer,5,1750,1100,650
+2025-05-20,Printer,Technology,Dublin,New Customer,8,2000,1280,720
+2025-05-21,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-05-21,Mouse,Accessories,Cork,Returning Customer,5,225,90,135
+2025-05-22,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-05-22,Monitor,Technology,Galway,New Customer,4,1400,880,520
+2025-05-22,Mouse,Accessories,Limerick,New Customer,2,90,36,54
+2025-05-23,Printer,Technology,Dublin,Returning Customer,4,1000,640,360
+2025-05-23,Mouse,Accessories,Dublin,Returning Customer,7,315,126,189
+2025-05-23,Laptop,Technology,Limerick,Returning Customer,4,4800,3400,1400
+2025-05-23,Printer,Technology,Limerick,Returning Customer,4,1000,640,360
+2025-05-24,Desk,Furniture,Dublin,New Customer,6,2700,1680,1020
+2025-05-24,Headphones,Accessories,Cork,New Customer,1,120,55,65
+2025-05-25,Printer,Technology,Galway,New Customer,8,2000,1280,720
+2025-05-25,Headphones,Accessories,Dublin,Returning Customer,6,720,330,390
+2025-05-26,Office Chair,Furniture,Limerick,Returning Customer,3,900,570,330
+2025-05-26,Mouse,Accessories,Dublin,Returning Customer,5,225,90,135
+2025-05-26,Keyboard,Accessories,Galway,New Customer,8,640,280,360
+2025-05-26,Office Chair,Furniture,Cork,Returning Customer,2,600,380,220
+2025-05-27,Headphones,Accessories,Dublin,Returning Customer,3,360,165,195
+2025-05-27,Printer,Technology,Limerick,Returning Customer,1,250,160,90
+2025-05-27,Mouse,Accessories,Galway,Returning Customer,5,225,90,135
+2025-05-27,Printer,Technology,Limerick,Returning Customer,3,750,480,270
+2025-05-28,Monitor,Technology,Limerick,Returning Customer,6,2100,1320,780
+2025-05-30,Headphones,Accessories,Limerick,Returning Customer,6,720,330,390
+2025-05-30,Printer,Technology,Galway,Returning Customer,4,1000,640,360
+2025-05-31,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-05-31,Mouse,Accessories,Cork,Returning Customer,7,315,126,189
+2025-05-31,Printer,Technology,Cork,Returning Customer,3,750,480,270
+2025-06-01,Mouse,Accessories,Cork,Returning Customer,6,270,108,162
+2025-06-01,Laptop,Technology,Limerick,Returning Customer,4,4800,3400,1400
+2025-06-01,Monitor,Technology,Galway,New Customer,1,350,220,130
+2025-06-01,Mouse,Accessories,Limerick,Returning Customer,3,135,54,81
+2025-06-02,Monitor,Technology,Galway,Returning Customer,6,2100,1320,780
+2025-06-03,Laptop,Technology,Galway,New Customer,7,8400,5950,2450
+2025-06-03,Monitor,Technology,Dublin,New Customer,7,2450,1540,910
+2025-06-03,Headphones,Accessories,Galway,Returning Customer,7,840,385,455
+2025-06-03,Keyboard,Accessories,Limerick,Returning Customer,4,320,140,180
+2025-06-04,Desk,Furniture,Dublin,Returning Customer,2,900,560,340
+2025-06-04,Mouse,Accessories,Galway,Returning Customer,3,135,54,81
+2025-06-05,Monitor,Technology,Dublin,New Customer,4,1400,880,520
+2025-06-05,Keyboard,Accessories,Galway,New Customer,3,240,105,135
+2025-06-05,Laptop,Technology,Cork,Returning Customer,1,1200,850,350
+2025-06-05,Laptop,Technology,Cork,New Customer,4,4800,3400,1400
+2025-06-06,Headphones,Accessories,Dublin,New Customer,4,480,220,260
+2025-06-07,Office Chair,Furniture,Galway,New Customer,7,2100,1330,770
+2025-06-07,Headphones,Accessories,Cork,New Customer,3,360,165,195
+2025-06-08,Keyboard,Accessories,Dublin,New Customer,2,160,70,90
+2025-06-08,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-06-08,Keyboard,Accessories,Galway,Returning Customer,4,320,140,180
+2025-06-09,Keyboard,Accessories,Limerick,Returning Customer,2,160,70,90
+2025-06-09,Headphones,Accessories,Dublin,New Customer,8,960,440,520
+2025-06-10,Headphones,Accessories,Dublin,New Customer,4,480,220,260
+2025-06-10,Office Chair,Furniture,Limerick,New Customer,6,1800,1140,660
+2025-06-10,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-06-11,Monitor,Technology,Cork,New Customer,3,1050,660,390
+2025-06-11,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-06-11,Laptop,Technology,Cork,Returning Customer,1,1200,850,350
+2025-06-12,Headphones,Accessories,Limerick,Returning Customer,5,600,275,325
+2025-06-12,Printer,Technology,Cork,New Customer,5,1250,800,450
+2025-06-12,Printer,Technology,Dublin,New Customer,1,250,160,90
+2025-06-13,Mouse,Accessories,Galway,Returning Customer,6,270,108,162
+2025-06-13,Monitor,Technology,Limerick,Returning Customer,2,700,440,260
+2025-06-15,Printer,Technology,Cork,New Customer,5,1250,800,450
+2025-06-15,Laptop,Technology,Cork,New Customer,1,1200,850,350
+2025-06-16,Laptop,Technology,Galway,New Customer,3,3600,2550,1050
+2025-06-16,Printer,Technology,Galway,Returning Customer,8,2000,1280,720
+2025-06-17,Monitor,Technology,Limerick,Returning Customer,1,350,220,130
+2025-06-17,Headphones,Accessories,Limerick,Returning Customer,5,600,275,325
+2025-06-17,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-06-18,Desk,Furniture,Galway,Returning Customer,8,3600,2240,1360
+2025-06-18,Mouse,Accessories,Cork,Returning Customer,7,315,126,189
+2025-06-19,Mouse,Accessories,Galway,New Customer,3,135,54,81
+2025-06-19,Office Chair,Furniture,Galway,Returning Customer,5,1500,950,550
+2025-06-19,Desk,Furniture,Cork,Returning Customer,8,3600,2240,1360
+2025-06-19,Monitor,Technology,Limerick,New Customer,1,350,220,130
+2025-06-19,Monitor,Technology,Galway,Returning Customer,4,1400,880,520
+2025-06-20,Desk,Furniture,Limerick,Returning Customer,6,2700,1680,1020
+2025-06-20,Keyboard,Accessories,Cork,Returning Customer,5,400,175,225
+2025-06-22,Laptop,Technology,Galway,New Customer,8,9600,6800,2800
+2025-06-23,Desk,Furniture,Galway,Returning Customer,2,900,560,340
+2025-06-23,Monitor,Technology,Cork,New Customer,4,1400,880,520
+2025-06-23,Mouse,Accessories,Cork,New Customer,6,270,108,162
+2025-06-24,Keyboard,Accessories,Galway,Returning Customer,1,80,35,45
+2025-06-24,Headphones,Accessories,Cork,Returning Customer,3,360,165,195
+2025-06-24,Office Chair,Furniture,Galway,New Customer,5,1500,950,550
+2025-06-25,Desk,Furniture,Limerick,Returning Customer,5,2250,1400,850
+2025-06-26,Laptop,Technology,Cork,Returning Customer,5,6000,4250,1750
+2025-06-26,Mouse,Accessories,Cork,New Customer,7,315,126,189
+2025-06-26,Keyboard,Accessories,Dublin,Returning Customer,5,400,175,225
+2025-06-26,Headphones,Accessories,Limerick,New Customer,1,120,55,65
+2025-06-26,Desk,Furniture,Limerick,Returning Customer,6,2700,1680,1020
+2025-06-27,Desk,Furniture,Dublin,New Customer,3,1350,840,510
+2025-06-27,Printer,Technology,Dublin,Returning Customer,4,1000,640,360
+2025-06-27,Headphones,Accessories,Galway,New Customer,2,240,110,130
+2025-06-27,Keyboard,Accessories,Cork,New Customer,5,400,175,225
+2025-06-28,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-06-28,Office Chair,Furniture,Cork,Returning Customer,8,2400,1520,880
+2025-06-28,Headphones,Accessories,Dublin,Returning Customer,5,600,275,325
+2025-06-28,Printer,Technology,Cork,Returning Customer,5,1250,800,450
+2025-06-28,Desk,Furniture,Dublin,New Customer,7,3150,1960,1190
+2025-06-29,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-06-29,Laptop,Technology,Cork,Returning Customer,3,3600,2550,1050
+2025-06-29,Headphones,Accessories,Cork,New Customer,7,840,385,455
+2025-06-29,Monitor,Technology,Cork,Returning Customer,7,2450,1540,910
+2025-06-30,Monitor,Technology,Cork,Returning Customer,4,1400,880,520
+2025-06-30,Laptop,Technology,Cork,Returning Customer,5,6000,4250,1750
+2025-06-30,Office Chair,Furniture,Galway,Returning Customer,6,1800,1140,660
+2025-06-30,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-06-30,Monitor,Technology,Limerick,Returning Customer,5,1750,1100,650
+2025-06-30,Office Chair,Furniture,Limerick,Returning Customer,3,900,570,330
+2025-07-01,Headphones,Accessories,Dublin,Returning Customer,7,840,385,455
+2025-07-01,Desk,Furniture,Galway,Returning Customer,1,450,280,170
+2025-07-01,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-07-01,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-07-02,Keyboard,Accessories,Galway,Returning Customer,3,240,105,135
+2025-07-03,Desk,Furniture,Cork,New Customer,5,2250,1400,850
+2025-07-03,Laptop,Technology,Cork,New Customer,8,9600,6800,2800
+2025-07-03,Headphones,Accessories,Dublin,New Customer,8,960,440,520
+2025-07-03,Laptop,Technology,Limerick,Returning Customer,3,3600,2550,1050
+2025-07-03,Office Chair,Furniture,Cork,New Customer,7,2100,1330,770
+2025-07-04,Office Chair,Furniture,Limerick,Returning Customer,3,900,570,330
+2025-07-04,Headphones,Accessories,Cork,New Customer,2,240,110,130
+2025-07-04,Headphones,Accessories,Limerick,New Customer,4,480,220,260
+2025-07-04,Office Chair,Furniture,Cork,New Customer,8,2400,1520,880
+2025-07-05,Monitor,Technology,Cork,New Customer,8,2800,1760,1040
+2025-07-06,Mouse,Accessories,Galway,Returning Customer,8,360,144,216
+2025-07-07,Keyboard,Accessories,Dublin,New Customer,8,640,280,360
+2025-07-08,Laptop,Technology,Dublin,New Customer,5,6000,4250,1750
+2025-07-08,Keyboard,Accessories,Cork,Returning Customer,2,160,70,90
+2025-07-08,Keyboard,Accessories,Dublin,New Customer,5,400,175,225
+2025-07-08,Printer,Technology,Galway,Returning Customer,8,2000,1280,720
+2025-07-09,Mouse,Accessories,Cork,Returning Customer,1,45,18,27
+2025-07-09,Desk,Furniture,Cork,Returning Customer,6,2700,1680,1020
+2025-07-09,Monitor,Technology,Cork,Returning Customer,6,2100,1320,780
+2025-07-09,Headphones,Accessories,Dublin,New Customer,6,720,330,390
+2025-07-10,Office Chair,Furniture,Galway,Returning Customer,8,2400,1520,880
+2025-07-10,Monitor,Technology,Dublin,New Customer,5,1750,1100,650
+2025-07-11,Laptop,Technology,Cork,New Customer,6,7200,5100,2100
+2025-07-12,Headphones,Accessories,Dublin,New Customer,1,120,55,65
+2025-07-12,Laptop,Technology,Cork,New Customer,5,6000,4250,1750
+2025-07-12,Desk,Furniture,Galway,New Customer,8,3600,2240,1360
+2025-07-12,Headphones,Accessories,Limerick,Returning Customer,6,720,330,390
+2025-07-13,Desk,Furniture,Cork,Returning Customer,2,900,560,340
+2025-07-13,Office Chair,Furniture,Dublin,Returning Customer,7,2100,1330,770
+2025-07-13,Monitor,Technology,Galway,New Customer,5,1750,1100,650
+2025-07-14,Keyboard,Accessories,Galway,Returning Customer,7,560,245,315
+2025-07-14,Desk,Furniture,Dublin,New Customer,8,3600,2240,1360
+2025-07-15,Laptop,Technology,Cork,New Customer,8,9600,6800,2800
+2025-07-15,Desk,Furniture,Limerick,New Customer,1,450,280,170
+2025-07-15,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-07-15,Desk,Furniture,Galway,New Customer,3,1350,840,510
+2025-07-16,Keyboard,Accessories,Dublin,Returning Customer,4,320,140,180
+2025-07-16,Printer,Technology,Cork,Returning Customer,2,500,320,180
+2025-07-16,Keyboard,Accessories,Cork,New Customer,7,560,245,315
+2025-07-16,Printer,Technology,Limerick,Returning Customer,7,1750,1120,630
+2025-07-16,Keyboard,Accessories,Galway,New Customer,2,160,70,90
+2025-07-17,Laptop,Technology,Limerick,Returning Customer,5,6000,4250,1750
+2025-07-17,Desk,Furniture,Galway,New Customer,8,3600,2240,1360
+2025-07-17,Printer,Technology,Dublin,New Customer,5,1250,800,450
+2025-07-18,Desk,Furniture,Cork,Returning Customer,8,3600,2240,1360
+2025-07-18,Printer,Technology,Dublin,New Customer,8,2000,1280,720
+2025-07-18,Desk,Furniture,Dublin,Returning Customer,6,2700,1680,1020
+2025-07-19,Monitor,Technology,Dublin,New Customer,1,350,220,130
+2025-07-19,Printer,Technology,Limerick,Returning Customer,1,250,160,90
+2025-07-21,Headphones,Accessories,Limerick,Returning Customer,6,720,330,390
+2025-07-21,Mouse,Accessories,Cork,Returning Customer,8,360,144,216
+2025-07-21,Keyboard,Accessories,Galway,New Customer,3,240,105,135
+2025-07-21,Keyboard,Accessories,Dublin,Returning Customer,8,640,280,360
+2025-07-22,Mouse,Accessories,Limerick,Returning Customer,3,135,54,81
+2025-07-22,Office Chair,Furniture,Dublin,Returning Customer,4,1200,760,440
+2025-07-22,Office Chair,Furniture,Galway,New Customer,3,900,570,330
+2025-07-22,Mouse,Accessories,Dublin,Returning Customer,1,45,18,27
+2025-07-23,Office Chair,Furniture,Cork,New Customer,1,300,190,110
+2025-07-23,Laptop,Technology,Galway,New Customer,1,1200,850,350
+2025-07-24,Desk,Furniture,Cork,Returning Customer,3,1350,840,510
+2025-07-24,Office Chair,Furniture,Limerick,New Customer,7,2100,1330,770
+2025-07-25,Headphones,Accessories,Cork,Returning Customer,1,120,55,65
+2025-07-25,Headphones,Accessories,Cork,New Customer,8,960,440,520
+2025-07-26,Office Chair,Furniture,Limerick,New Customer,1,300,190,110
+2025-07-27,Printer,Technology,Cork,Returning Customer,4,1000,640,360
+2025-07-27,Desk,Furniture,Cork,Returning Customer,1,450,280,170
+2025-07-28,Printer,Technology,Dublin,New Customer,6,1500,960,540
+2025-07-28,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-07-29,Printer,Technology,Galway,New Customer,8,2000,1280,720
+2025-07-29,Office Chair,Furniture,Dublin,New Customer,6,1800,1140,660
+2025-07-29,Monitor,Technology,Galway,New Customer,3,1050,660,390
+2025-07-29,Office Chair,Furniture,Cork,Returning Customer,2,600,380,220
+2025-07-29,Printer,Technology,Galway,New Customer,3,750,480,270
+2025-07-30,Printer,Technology,Cork,New Customer,1,250,160,90
+2025-07-30,Mouse,Accessories,Cork,New Customer,5,225,90,135
+2025-07-31,Office Chair,Furniture,Dublin,New Customer,8,2400,1520,880
+2025-08-01,Office Chair,Furniture,Limerick,Returning Customer,2,600,380,220
+2025-08-01,Printer,Technology,Cork,Returning Customer,8,2000,1280,720
+2025-08-02,Printer,Technology,Cork,Returning Customer,8,2000,1280,720
+2025-08-02,Headphones,Accessories,Limerick,Returning Customer,1,120,55,65
+2025-08-02,Monitor,Technology,Limerick,New Customer,4,1400,880,520
+2025-08-03,Mouse,Accessories,Limerick,Returning Customer,5,225,90,135
+2025-08-03,Printer,Technology,Dublin,Returning Customer,2,500,320,180
+2025-08-03,Mouse,Accessories,Cork,Returning Customer,8,360,144,216
+2025-08-04,Headphones,Accessories,Dublin,Returning Customer,8,960,440,520
+2025-08-04,Monitor,Technology,Cork,Returning Customer,5,1750,1100,650
+2025-08-04,Headphones,Accessories,Limerick,New Customer,2,240,110,130
+2025-08-04,Monitor,Technology,Limerick,Returning Customer,2,700,440,260
+2025-08-04,Printer,Technology,Limerick,Returning Customer,2,500,320,180
+2025-08-05,Printer,Technology,Cork,Returning Customer,3,750,480,270
+2025-08-05,Office Chair,Furniture,Dublin,New Customer,2,600,380,220
+2025-08-05,Desk,Furniture,Limerick,Returning Customer,2,900,560,340
+2025-08-05,Office Chair,Furniture,Cork,Returning Customer,6,1800,1140,660
+2025-08-05,Desk,Furniture,Cork,Returning Customer,2,900,560,340
+2025-08-06,Monitor,Technology,Galway,New Customer,4,1400,880,520
+2025-08-06,Mouse,Accessories,Galway,Returning Customer,7,315,126,189
+2025-08-07,Office Chair,Furniture,Galway,New Customer,5,1500,950,550
+2025-08-08,Headphones,Accessories,Cork,New Customer,5,600,275,325
+2025-08-08,Laptop,Technology,Cork,Returning Customer,6,7200,5100,2100
+2025-08-08,Keyboard,Accessories,Galway,New Customer,1,80,35,45
+2025-08-08,Mouse,Accessories,Galway,Returning Customer,8,360,144,216
+2025-08-09,Keyboard,Accessories,Galway,New Customer,5,400,175,225
+2025-08-09,Printer,Technology,Limerick,Returning Customer,4,1000,640,360
+2025-08-09,Monitor,Technology,Galway,New Customer,6,2100,1320,780
+2025-08-09,Keyboard,Accessories,Galway,Returning Customer,1,80,35,45
+2025-08-09,Office Chair,Furniture,Limerick,Returning Customer,8,2400,1520,880
+2025-08-09,Office Chair,Furniture,Dublin,Returning Customer,2,600,380,220
+2025-08-10,Keyboard,Accessories,Dublin,Returning Customer,7,560,245,315
+2025-08-10,Office Chair,Furniture,Dublin,New Customer,5,1500,950,550
+2025-08-12,Printer,Technology,Limerick,Returning Customer,1,250,160,90
+2025-08-12,Desk,Furniture,Limerick,Returning Customer,8,3600,2240,1360
+2025-08-12,Monitor,Technology,Cork,Returning Customer,7,2450,1540,910
+2025-08-13,Monitor,Technology,Galway,Returning Customer,8,2800,1760,1040
+2025-08-13,Desk,Furniture,Limerick,Returning Customer,3,1350,840,510
+2025-08-13,Printer,Technology,Cork,New Customer,2,500,320,180
+2025-08-13,Laptop,Technology,Galway,New Customer,4,4800,3400,1400
+2025-08-13,Headphones,Accessories,Limerick,Returning Customer,2,240,110,130
+2025-08-13,Printer,Technology,Dublin,Returning Customer,6,1500,960,540
+2025-08-13,Keyboard,Accessories,Galway,Returning Customer,6,480,210,270
+2025-08-15,Desk,Furniture,Cork,Returning Customer,8,3600,2240,1360
+2025-08-15,Desk,Furniture,Limerick,Returning Customer,8,3600,2240,1360
+2025-08-16,Desk,Furniture,Galway,Returning Customer,2,900,560,340
+2025-08-16,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-08-16,Monitor,Technology,Galway,Returning Customer,3,1050,660,390
+2025-08-17,Monitor,Technology,Limerick,Returning Customer,4,1400,880,520
+2025-08-17,Printer,Technology,Galway,Returning Customer,6,1500,960,540
+2025-08-18,Headphones,Accessories,Cork,Returning Customer,1,120,55,65
+2025-08-19,Mouse,Accessories,Limerick,New Customer,6,270,108,162
+2025-08-19,Desk,Furniture,Galway,New Customer,7,3150,1960,1190
+2025-08-19,Headphones,Accessories,Galway,Returning Customer,4,480,220,260
+2025-08-19,Office Chair,Furniture,Galway,Returning Customer,5,1500,950,550
+2025-08-19,Printer,Technology,Galway,Returning Customer,4,1000,640,360
+2025-08-19,Printer,Technology,Cork,New Customer,6,1500,960,540
+2025-08-19,Headphones,Accessories,Dublin,Returning Customer,6,720,330,390
+2025-08-19,Office Chair,Furniture,Cork,New Customer,2,600,380,220
+2025-08-20,Monitor,Technology,Cork,New Customer,2,700,440,260
+2025-08-21,Office Chair,Furniture,Galway,Returning Customer,3,900,570,330
+2025-08-21,Office Chair,Furniture,Limerick,Returning Customer,5,1500,950,550
+2025-08-21,Office Chair,Furniture,Limerick,Returning Customer,6,1800,1140,660
+2025-08-21,Printer,Technology,Dublin,New Customer,6,1500,960,540
+2025-08-21,Keyboard,Accessories,Limerick,New Customer,7,560,245,315
+2025-08-21,Desk,Furniture,Dublin,Returning Customer,7,3150,1960,1190
+2025-08-22,Office Chair,Furniture,Cork,Returning Customer,4,1200,760,440
+2025-08-22,Office Chair,Furniture,Cork,Returning Customer,7,2100,1330,770
+2025-08-22,Office Chair,Furniture,Limerick,New Customer,1,300,190,110
+2025-08-23,Keyboard,Accessories,Dublin,New Customer,8,640,280,360
+2025-08-23,Office Chair,Furniture,Limerick,New Customer,2,600,380,220
+2025-08-23,Office Chair,Furniture,Dublin,Returning Customer,2,600,380,220
+2025-08-24,Keyboard,Accessories,Cork,New Customer,6,480,210,270
+2025-08-24,Monitor,Technology,Limerick,Returning Customer,6,2100,1320,780
+2025-08-24,Office Chair,Furniture,Cork,New Customer,5,1500,950,550
+2025-08-25,Monitor,Technology,Dublin,New Customer,3,1050,660,390
+2025-08-26,Headphones,Accessories,Dublin,New Customer,2,240,110,130
+2025-08-26,Laptop,Technology,Dublin,New Customer,6,7200,5100,2100
+2025-08-26,Keyboard,Accessories,Dublin,Returning Customer,6,480,210,270
+2025-08-27,Headphones,Accessories,Limerick,Returning Customer,3,360,165,195
+2025-08-28,Laptop,Technology,Dublin,Returning Customer,2,2400,1700,700
+2025-08-29,Printer,Technology,Cork,Returning Customer,5,1250,800,450
+2025-08-29,Printer,Technology,Galway,New Customer,5,1250,800,450
+2025-08-30,Laptop,Technology,Limerick,New Customer,5,6000,4250,1750
+2025-08-30,Laptop,Technology,Cork,New Customer,6,7200,5100,2100
+2025-08-30,Desk,Furniture,Dublin,Returning Customer,2,900,560,340
+2025-08-31,Monitor,Technology,Limerick,Returning Customer,5,1750,1100,650
+2025-08-31,Desk,Furniture,Galway,New Customer,5,2250,1400,850
+2025-09-01,Laptop,Technology,Galway,New Customer,6,7200,5100,2100
+2025-09-01,Laptop,Technology,Galway,New Customer,7,8400,5950,2450
+2025-09-01,Office Chair,Furniture,Cork,Returning Customer,6,1800,1140,660
+2025-09-02,Monitor,Technology,Limerick,New Customer,4,1400,880,520
+2025-09-02,Mouse,Accessories,Galway,Returning Customer,2,90,36,54
+2025-09-02,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-09-02,Laptop,Technology,Galway,Returning Customer,6,7200,5100,2100
+2025-09-03,Mouse,Accessories,Limerick,New Customer,4,180,72,108
+2025-09-03,Mouse,Accessories,Limerick,New Customer,3,135,54,81
+2025-09-03,Desk,Furniture,Dublin,Returning Customer,7,3150,1960,1190
+2025-09-03,Office Chair,Furniture,Limerick,Returning Customer,3,900,570,330
+2025-09-03,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-09-04,Laptop,Technology,Limerick,New Customer,3,3600,2550,1050
+2025-09-04,Headphones,Accessories,Dublin,Returning Customer,6,720,330,390
+2025-09-04,Monitor,Technology,Dublin,Returning Customer,5,1750,1100,650
+2025-09-05,Headphones,Accessories,Dublin,New Customer,5,600,275,325
+2025-09-05,Keyboard,Accessories,Dublin,Returning Customer,8,640,280,360
+2025-09-05,Printer,Technology,Galway,New Customer,4,1000,640,360
+2025-09-06,Monitor,Technology,Cork,Returning Customer,3,1050,660,390
+2025-09-07,Mouse,Accessories,Galway,Returning Customer,6,270,108,162
+2025-09-07,Mouse,Accessories,Galway,Returning Customer,6,270,108,162
+2025-09-07,Laptop,Technology,Cork,Returning Customer,5,6000,4250,1750
+2025-09-08,Headphones,Accessories,Limerick,New Customer,2,240,110,130
+2025-09-08,Office Chair,Furniture,Cork,Returning Customer,4,1200,760,440
+2025-09-08,Desk,Furniture,Dublin,Returning Customer,5,2250,1400,850
+2025-09-08,Laptop,Technology,Galway,Returning Customer,2,2400,1700,700
+2025-09-11,Keyboard,Accessories,Dublin,New Customer,5,400,175,225
+2025-09-12,Laptop,Technology,Limerick,Returning Customer,2,2400,1700,700
+2025-09-12,Headphones,Accessories,Limerick,New Customer,5,600,275,325
+2025-09-12,Mouse,Accessories,Galway,New Customer,4,180,72,108
+2025-09-12,Laptop,Technology,Limerick,Returning Customer,2,2400,1700,700
+2025-09-13,Keyboard,Accessories,Limerick,Returning Customer,6,480,210,270
+2025-09-15,Mouse,Accessories,Dublin,Returning Customer,3,135,54,81
+2025-09-15,Keyboard,Accessories,Cork,Returning Customer,3,240,105,135
+2025-09-15,Office Chair,Furniture,Galway,Returning Customer,2,600,380,220
+2025-09-15,Headphones,Accessories,Dublin,Returning Customer,6,720,330,390
+2025-09-15,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-09-15,Desk,Furniture,Dublin,New Customer,3,1350,840,510
+2025-09-16,Printer,Technology,Dublin,New Customer,5,1250,800,450
+2025-09-16,Keyboard,Accessories,Limerick,New Customer,7,560,245,315
+2025-09-16,Laptop,Technology,Limerick,New Customer,4,4800,3400,1400
+2025-09-16,Keyboard,Accessories,Cork,Returning Customer,1,80,35,45
+2025-09-16,Desk,Furniture,Dublin,New Customer,2,900,560,340
+2025-09-19,Mouse,Accessories,Galway,Returning Customer,8,360,144,216
+2025-09-19,Monitor,Technology,Galway,Returning Customer,4,1400,880,520
+2025-09-20,Printer,Technology,Dublin,Returning Customer,8,2000,1280,720
+2025-09-20,Laptop,Technology,Limerick,New Customer,1,1200,850,350
+2025-09-20,Laptop,Technology,Galway,New Customer,5,6000,4250,1750
+2025-09-21,Office Chair,Furniture,Limerick,New Customer,2,600,380,220
+2025-09-21,Keyboard,Accessories,Cork,New Customer,8,640,280,360
+2025-09-21,Monitor,Technology,Cork,New Customer,2,700,440,260
+2025-09-22,Desk,Furniture,Galway,Returning Customer,6,2700,1680,1020
+2025-09-22,Headphones,Accessories,Galway,Returning Customer,5,600,275,325
+2025-09-23,Office Chair,Furniture,Limerick,New Customer,8,2400,1520,880
+2025-09-23,Monitor,Technology,Cork,Returning Customer,7,2450,1540,910
+2025-09-23,Keyboard,Accessories,Dublin,Returning Customer,5,400,175,225
+2025-09-23,Laptop,Technology,Dublin,Returning Customer,2,2400,1700,700
+2025-09-24,Desk,Furniture,Limerick,New Customer,6,2700,1680,1020
+2025-09-24,Laptop,Technology,Cork,Returning Customer,7,8400,5950,2450
+2025-09-25,Desk,Furniture,Limerick,Returning Customer,8,3600,2240,1360
+2025-09-25,Headphones,Accessories,Galway,New Customer,3,360,165,195
+2025-09-25,Headphones,Accessories,Limerick,Returning Customer,8,960,440,520
+2025-09-25,Monitor,Technology,Limerick,New Customer,1,350,220,130
+2025-09-26,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-09-26,Keyboard,Accessories,Cork,Returning Customer,4,320,140,180
+2025-09-26,Laptop,Technology,Cork,Returning Customer,6,7200,5100,2100
+2025-09-27,Headphones,Accessories,Galway,New Customer,1,120,55,65
+2025-09-28,Office Chair,Furniture,Limerick,New Customer,7,2100,1330,770
+2025-09-29,Mouse,Accessories,Limerick,New Customer,7,315,126,189
+2025-09-29,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-09-29,Keyboard,Accessories,Galway,Returning Customer,8,640,280,360
+2025-09-29,Laptop,Technology,Limerick,Returning Customer,3,3600,2550,1050
+2025-09-30,Monitor,Technology,Limerick,New Customer,2,700,440,260
+2025-09-30,Desk,Furniture,Cork,Returning Customer,4,1800,1120,680
+2025-10-01,Laptop,Technology,Dublin,Returning Customer,3,3600,2550,1050
+2025-10-01,Office Chair,Furniture,Galway,Returning Customer,5,1500,950,550
+2025-10-01,Mouse,Accessories,Limerick,Returning Customer,3,135,54,81
+2025-10-02,Office Chair,Furniture,Galway,Returning Customer,7,2100,1330,770
+2025-10-02,Office Chair,Furniture,Dublin,Returning Customer,7,2100,1330,770
+2025-10-02,Printer,Technology,Limerick,New Customer,3,750,480,270
+2025-10-03,Headphones,Accessories,Limerick,Returning Customer,8,960,440,520
+2025-10-04,Office Chair,Furniture,Cork,Returning Customer,5,1500,950,550
+2025-10-04,Monitor,Technology,Cork,New Customer,3,1050,660,390
+2025-10-04,Laptop,Technology,Cork,New Customer,6,7200,5100,2100
+2025-10-04,Mouse,Accessories,Limerick,Returning Customer,5,225,90,135
+2025-10-04,Headphones,Accessories,Dublin,New Customer,3,360,165,195
+2025-10-04,Mouse,Accessories,Cork,Returning Customer,1,45,18,27
+2025-10-05,Office Chair,Furniture,Dublin,Returning Customer,8,2400,1520,880
+2025-10-05,Printer,Technology,Cork,Returning Customer,4,1000,640,360
+2025-10-06,Office Chair,Furniture,Limerick,New Customer,1,300,190,110
+2025-10-06,Printer,Technology,Galway,Returning Customer,6,1500,960,540
+2025-10-06,Printer,Technology,Galway,Returning Customer,3,750,480,270
+2025-10-07,Headphones,Accessories,Dublin,New Customer,6,720,330,390
+2025-10-07,Printer,Technology,Dublin,New Customer,3,750,480,270
+2025-10-08,Laptop,Technology,Galway,New Customer,5,6000,4250,1750
+2025-10-08,Printer,Technology,Limerick,Returning Customer,4,1000,640,360
+2025-10-09,Monitor,Technology,Dublin,New Customer,1,350,220,130
+2025-10-09,Keyboard,Accessories,Limerick,New Customer,5,400,175,225
+2025-10-09,Office Chair,Furniture,Limerick,Returning Customer,6,1800,1140,660
+2025-10-09,Laptop,Technology,Dublin,Returning Customer,8,9600,6800,2800
+2025-10-09,Printer,Technology,Dublin,Returning Customer,1,250,160,90
+2025-10-09,Office Chair,Furniture,Limerick,Returning Customer,5,1500,950,550
+2025-10-10,Office Chair,Furniture,Limerick,Returning Customer,5,1500,950,550
+2025-10-10,Office Chair,Furniture,Limerick,New Customer,5,1500,950,550
+2025-10-10,Printer,Technology,Galway,Returning Customer,3,750,480,270
+2025-10-10,Desk,Furniture,Dublin,New Customer,1,450,280,170
+2025-10-10,Keyboard,Accessories,Cork,New Customer,7,560,245,315
+2025-10-11,Headphones,Accessories,Limerick,New Customer,3,360,165,195
+2025-10-11,Desk,Furniture,Cork,New Customer,5,2250,1400,850
+2025-10-11,Keyboard,Accessories,Dublin,New Customer,2,160,70,90
+2025-10-11,Keyboard,Accessories,Dublin,Returning Customer,2,160,70,90
+2025-10-11,Desk,Furniture,Cork,New Customer,8,3600,2240,1360
+2025-10-12,Laptop,Technology,Dublin,Returning Customer,6,7200,5100,2100
+2025-10-12,Desk,Furniture,Cork,New Customer,7,3150,1960,1190
+2025-10-13,Headphones,Accessories,Galway,Returning Customer,4,480,220,260
+2025-10-14,Printer,Technology,Dublin,Returning Customer,5,1250,800,450
+2025-10-14,Headphones,Accessories,Dublin,Returning Customer,6,720,330,390
+2025-10-14,Mouse,Accessories,Limerick,New Customer,8,360,144,216
+2025-10-14,Office Chair,Furniture,Galway,New Customer,6,1800,1140,660
+2025-10-15,Office Chair,Furniture,Limerick,Returning Customer,8,2400,1520,880
+2025-10-15,Mouse,Accessories,Dublin,Returning Customer,4,180,72,108
+2025-10-15,Headphones,Accessories,Dublin,Returning Customer,5,600,275,325
+2025-10-16,Laptop,Technology,Dublin,New Customer,1,1200,850,350
+2025-10-16,Monitor,Technology,Cork,New Customer,1,350,220,130
+2025-10-17,Keyboard,Accessories,Galway,New Customer,8,640,280,360
+2025-10-17,Laptop,Technology,Galway,New Customer,4,4800,3400,1400
+2025-10-17,Printer,Technology,Dublin,Returning Customer,2,500,320,180
+2025-10-18,Office Chair,Furniture,Limerick,Returning Customer,4,1200,760,440
+2025-10-18,Keyboard,Accessories,Limerick,Returning Customer,4,320,140,180
+2025-10-19,Keyboard,Accessories,Dublin,Returning Customer,7,560,245,315
+2025-10-19,Mouse,Accessories,Galway,New Customer,6,270,108,162
+2025-10-19,Office Chair,Furniture,Cork,Returning Customer,5,1500,950,550
+2025-10-20,Office Chair,Furniture,Galway,New Customer,5,1500,950,550
+2025-10-20,Office Chair,Furniture,Dublin,New Customer,2,600,380,220
+2025-10-21,Printer,Technology,Dublin,New Customer,3,750,480,270
+2025-10-21,Monitor,Technology,Dublin,Returning Customer,4,1400,880,520
+2025-10-21,Desk,Furniture,Galway,New Customer,2,900,560,340
+2025-10-22,Mouse,Accessories,Limerick,Returning Customer,5,225,90,135
+2025-10-22,Desk,Furniture,Cork,Returning Customer,7,3150,1960,1190
+2025-10-22,Mouse,Accessories,Galway,New Customer,2,90,36,54
+2025-10-22,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-10-23,Laptop,Technology,Cork,Returning Customer,3,3600,2550,1050
+2025-10-23,Mouse,Accessories,Limerick,New Customer,3,135,54,81
+2025-10-23,Monitor,Technology,Galway,Returning Customer,3,1050,660,390
+2025-10-24,Keyboard,Accessories,Limerick,Returning Customer,7,560,245,315
+2025-10-24,Office Chair,Furniture,Dublin,Returning Customer,3,900,570,330
+2025-10-25,Monitor,Technology,Limerick,New Customer,3,1050,660,390
+2025-10-25,Monitor,Technology,Galway,Returning Customer,6,2100,1320,780
+2025-10-25,Desk,Furniture,Dublin,Returning Customer,4,1800,1120,680
+2025-10-25,Printer,Technology,Galway,New Customer,6,1500,960,540
+2025-10-26,Printer,Technology,Limerick,New Customer,2,500,320,180
+2025-10-26,Desk,Furniture,Limerick,New Customer,5,2250,1400,850
+2025-10-26,Desk,Furniture,Dublin,Returning Customer,7,3150,1960,1190
+2025-10-26,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-10-27,Headphones,Accessories,Galway,Returning Customer,1,120,55,65
+2025-10-27,Mouse,Accessories,Dublin,New Customer,3,135,54,81
+2025-10-28,Monitor,Technology,Limerick,New Customer,5,1750,1100,650
+2025-10-28,Monitor,Technology,Galway,New Customer,1,350,220,130
+2025-10-28,Monitor,Technology,Galway,Returning Customer,6,2100,1320,780
+2025-10-28,Mouse,Accessories,Cork,Returning Customer,8,360,144,216
+2025-10-28,Mouse,Accessories,Galway,New Customer,4,180,72,108
+2025-10-29,Desk,Furniture,Limerick,Returning Customer,2,900,560,340
+2025-10-29,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-10-31,Keyboard,Accessories,Limerick,New Customer,1,80,35,45
+2025-10-31,Headphones,Accessories,Cork,New Customer,6,720,330,390
+2025-10-31,Laptop,Technology,Cork,New Customer,7,8400,5950,2450
+2025-11-01,Printer,Technology,Limerick,Returning Customer,3,750,480,270
+2025-11-02,Monitor,Technology,Limerick,Returning Customer,4,1400,880,520
+2025-11-02,Laptop,Technology,Cork,Returning Customer,4,4800,3400,1400
+2025-11-02,Laptop,Technology,Cork,New Customer,5,6000,4250,1750
+2025-11-02,Laptop,Technology,Limerick,Returning Customer,5,6000,4250,1750
+2025-11-02,Desk,Furniture,Cork,New Customer,3,1350,840,510
+2025-11-05,Headphones,Accessories,Cork,New Customer,6,720,330,390
+2025-11-05,Laptop,Technology,Limerick,Returning Customer,7,8400,5950,2450
+2025-11-06,Mouse,Accessories,Cork,Returning Customer,6,270,108,162
+2025-11-06,Desk,Furniture,Dublin,Returning Customer,6,2700,1680,1020
+2025-11-06,Keyboard,Accessories,Galway,Returning Customer,8,640,280,360
+2025-11-07,Mouse,Accessories,Limerick,New Customer,8,360,144,216
+2025-11-07,Monitor,Technology,Cork,Returning Customer,1,350,220,130
+2025-11-07,Office Chair,Furniture,Limerick,New Customer,7,2100,1330,770
+2025-11-07,Printer,Technology,Cork,Returning Customer,5,1250,800,450
+2025-11-08,Keyboard,Accessories,Cork,Returning Customer,2,160,70,90
+2025-11-08,Headphones,Accessories,Limerick,Returning Customer,5,600,275,325
+2025-11-09,Printer,Technology,Cork,Returning Customer,4,1000,640,360
+2025-11-09,Mouse,Accessories,Limerick,Returning Customer,2,90,36,54
+2025-11-10,Headphones,Accessories,Limerick,Returning Customer,6,720,330,390
+2025-11-10,Office Chair,Furniture,Cork,Returning Customer,6,1800,1140,660
+2025-11-10,Headphones,Accessories,Cork,Returning Customer,7,840,385,455
+2025-11-10,Mouse,Accessories,Limerick,New Customer,2,90,36,54
+2025-11-11,Monitor,Technology,Galway,New Customer,3,1050,660,390
+2025-11-12,Laptop,Technology,Dublin,Returning Customer,2,2400,1700,700
+2025-11-12,Headphones,Accessories,Galway,Returning Customer,3,360,165,195
+2025-11-12,Printer,Technology,Limerick,New Customer,3,750,480,270
+2025-11-12,Mouse,Accessories,Cork,Returning Customer,7,315,126,189
+2025-11-13,Keyboard,Accessories,Limerick,Returning Customer,2,160,70,90
+2025-11-15,Mouse,Accessories,Galway,Returning Customer,8,360,144,216
+2025-11-15,Laptop,Technology,Dublin,New Customer,7,8400,5950,2450
+2025-11-15,Headphones,Accessories,Galway,Returning Customer,2,240,110,130
+2025-11-15,Monitor,Technology,Cork,Returning Customer,2,700,440,260
+2025-11-16,Office Chair,Furniture,Galway,Returning Customer,7,2100,1330,770
+2025-11-16,Headphones,Accessories,Galway,Returning Customer,3,360,165,195
+2025-11-17,Headphones,Accessories,Limerick,New Customer,4,480,220,260
+2025-11-17,Mouse,Accessories,Limerick,New Customer,5,225,90,135
+2025-11-17,Monitor,Technology,Cork,Returning Customer,4,1400,880,520
+2025-11-18,Laptop,Technology,Limerick,New Customer,5,6000,4250,1750
+2025-11-18,Desk,Furniture,Limerick,New Customer,7,3150,1960,1190
+2025-11-18,Office Chair,Furniture,Limerick,New Customer,3,900,570,330
+2025-11-19,Laptop,Technology,Galway,Returning Customer,7,8400,5950,2450
+2025-11-19,Mouse,Accessories,Limerick,Returning Customer,7,315,126,189
+2025-11-19,Mouse,Accessories,Cork,New Customer,2,90,36,54
+2025-11-19,Keyboard,Accessories,Limerick,Returning Customer,3,240,105,135
+2025-11-19,Laptop,Technology,Galway,Returning Customer,2,2400,1700,700
+2025-11-19,Laptop,Technology,Dublin,New Customer,3,3600,2550,1050
+2025-11-20,Keyboard,Accessories,Dublin,Returning Customer,3,240,105,135
+2025-11-20,Headphones,Accessories,Dublin,Returning Customer,4,480,220,260
+2025-11-21,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-11-21,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-11-21,Keyboard,Accessories,Galway,New Customer,5,400,175,225
+2025-11-21,Mouse,Accessories,Galway,Returning Customer,4,180,72,108
+2025-11-21,Laptop,Technology,Limerick,Returning Customer,1,1200,850,350
+2025-11-21,Monitor,Technology,Galway,Returning Customer,7,2450,1540,910
+2025-11-22,Headphones,Accessories,Galway,New Customer,3,360,165,195
+2025-11-22,Keyboard,Accessories,Limerick,Returning Customer,3,240,105,135
+2025-11-22,Printer,Technology,Limerick,New Customer,3,750,480,270
+2025-11-22,Printer,Technology,Limerick,Returning Customer,2,500,320,180
+2025-11-23,Headphones,Accessories,Galway,New Customer,4,480,220,260
+2025-11-24,Office Chair,Furniture,Limerick,New Customer,7,2100,1330,770
+2025-11-24,Monitor,Technology,Galway,New Customer,1,350,220,130
+2025-11-25,Headphones,Accessories,Limerick,New Customer,4,480,220,260
+2025-11-25,Printer,Technology,Limerick,Returning Customer,3,750,480,270
+2025-11-26,Keyboard,Accessories,Limerick,New Customer,8,640,280,360
+2025-11-26,Printer,Technology,Galway,New Customer,3,750,480,270
+2025-11-26,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-11-27,Desk,Furniture,Dublin,Returning Customer,6,2700,1680,1020
+2025-11-27,Laptop,Technology,Cork,New Customer,2,2400,1700,700
+2025-11-27,Monitor,Technology,Limerick,New Customer,7,2450,1540,910
+2025-11-27,Keyboard,Accessories,Dublin,New Customer,4,320,140,180
+2025-11-27,Printer,Technology,Dublin,New Customer,8,2000,1280,720
+2025-11-27,Office Chair,Furniture,Dublin,New Customer,2,600,380,220
+2025-11-27,Monitor,Technology,Cork,New Customer,5,1750,1100,650
+2025-11-28,Keyboard,Accessories,Cork,Returning Customer,1,80,35,45
+2025-11-28,Headphones,Accessories,Dublin,Returning Customer,3,360,165,195
+2025-11-28,Keyboard,Accessories,Galway,Returning Customer,8,640,280,360
+2025-11-29,Office Chair,Furniture,Galway,Returning Customer,2,600,380,220
+2025-11-29,Desk,Furniture,Cork,New Customer,2,900,560,340
+2025-11-30,Mouse,Accessories,Galway,Returning Customer,5,225,90,135
+2025-11-30,Laptop,Technology,Cork,New Customer,1,1200,850,350
+2025-11-30,Headphones,Accessories,Limerick,Returning Customer,5,600,275,325
+2025-12-01,Laptop,Technology,Dublin,Returning Customer,7,8400,5950,2450
+2025-12-01,Laptop,Technology,Dublin,Returning Customer,1,1200,850,350
+2025-12-01,Office Chair,Furniture,Dublin,New Customer,4,1200,760,440
+2025-12-02,Laptop,Technology,Limerick,Returning Customer,2,2400,1700,700
+2025-12-02,Keyboard,Accessories,Limerick,Returning Customer,2,160,70,90
+2025-12-02,Printer,Technology,Dublin,New Customer,8,2000,1280,720
+2025-12-02,Printer,Technology,Galway,New Customer,6,1500,960,540
+2025-12-02,Mouse,Accessories,Limerick,New Customer,1,45,18,27
+2025-12-02,Printer,Technology,Galway,Returning Customer,5,1250,800,450
+2025-12-03,Mouse,Accessories,Dublin,New Customer,5,225,90,135
+2025-12-03,Office Chair,Furniture,Cork,Returning Customer,5,1500,950,550
+2025-12-03,Keyboard,Accessories,Dublin,Returning Customer,5,400,175,225
+2025-12-03,Printer,Technology,Dublin,New Customer,7,1750,1120,630
+2025-12-04,Monitor,Technology,Limerick,New Customer,4,1400,880,520
+2025-12-04,Printer,Technology,Dublin,Returning Customer,1,250,160,90
+2025-12-04,Desk,Furniture,Dublin,New Customer,5,2250,1400,850
+2025-12-04,Headphones,Accessories,Cork,Returning Customer,4,480,220,260
+2025-12-04,Headphones,Accessories,Dublin,New Customer,8,960,440,520
+2025-12-05,Office Chair,Furniture,Galway,New Customer,2,600,380,220
+2025-12-06,Office Chair,Furniture,Dublin,Returning Customer,2,600,380,220
+2025-12-06,Mouse,Accessories,Dublin,Returning Customer,1,45,18,27
+2025-12-06,Office Chair,Furniture,Galway,Returning Customer,8,2400,1520,880
+2025-12-06,Keyboard,Accessories,Galway,Returning Customer,6,480,210,270
+2025-12-07,Desk,Furniture,Galway,Returning Customer,3,1350,840,510
+2025-12-08,Laptop,Technology,Galway,New Customer,8,9600,6800,2800
+2025-12-08,Headphones,Accessories,Cork,Returning Customer,2,240,110,130
+2025-12-08,Mouse,Accessories,Cork,Returning Customer,2,90,36,54
+2025-12-09,Mouse,Accessories,Dublin,New Customer,4,180,72,108
+2025-12-09,Monitor,Technology,Limerick,Returning Customer,4,1400,880,520
+2025-12-09,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-12-09,Printer,Technology,Cork,Returning Customer,4,1000,640,360
+2025-12-10,Monitor,Technology,Dublin,New Customer,5,1750,1100,650
+2025-12-10,Desk,Furniture,Limerick,New Customer,3,1350,840,510
+2025-12-10,Mouse,Accessories,Galway,New Customer,2,90,36,54
+2025-12-10,Desk,Furniture,Cork,New Customer,6,2700,1680,1020
+2025-12-12,Mouse,Accessories,Cork,New Customer,8,360,144,216
+2025-12-12,Printer,Technology,Dublin,New Customer,7,1750,1120,630
+2025-12-13,Keyboard,Accessories,Cork,New Customer,4,320,140,180
+2025-12-13,Laptop,Technology,Cork,Returning Customer,4,4800,3400,1400
+2025-12-14,Office Chair,Furniture,Limerick,Returning Customer,8,2400,1520,880
+2025-12-15,Monitor,Technology,Galway,New Customer,5,1750,1100,650
+2025-12-15,Laptop,Technology,Galway,Returning Customer,4,4800,3400,1400
+2025-12-16,Laptop,Technology,Dublin,Returning Customer,1,1200,850,350
+2025-12-16,Desk,Furniture,Cork,Returning Customer,4,1800,1120,680
+2025-12-17,Office Chair,Furniture,Cork,New Customer,1,300,190,110
+2025-12-17,Office Chair,Furniture,Dublin,Returning Customer,1,300,190,110
+2025-12-17,Monitor,Technology,Galway,Returning Customer,1,350,220,130
+2025-12-17,Headphones,Accessories,Cork,Returning Customer,1,120,55,65
+2025-12-17,Monitor,Technology,Dublin,Returning Customer,1,350,220,130
+2025-12-17,Desk,Furniture,Limerick,New Customer,5,2250,1400,850
+2025-12-18,Headphones,Accessories,Galway,Returning Customer,2,240,110,130
+2025-12-18,Mouse,Accessories,Cork,Returning Customer,5,225,90,135
+2025-12-18,Printer,Technology,Dublin,New Customer,2,500,320,180
+2025-12-18,Headphones,Accessories,Cork,Returning Customer,1,120,55,65
+2025-12-19,Laptop,Technology,Limerick,Returning Customer,3,3600,2550,1050
+2025-12-19,Keyboard,Accessories,Dublin,New Customer,6,480,210,270
+2025-12-20,Monitor,Technology,Galway,New Customer,5,1750,1100,650
+2025-12-20,Keyboard,Accessories,Galway,New Customer,1,80,35,45
+2025-12-20,Headphones,Accessories,Galway,New Customer,8,960,440,520
+2025-12-21,Laptop,Technology,Limerick,Returning Customer,7,8400,5950,2450
+2025-12-21,Keyboard,Accessories,Dublin,Returning Customer,8,640,280,360
+2025-12-22,Keyboard,Accessories,Limerick,New Customer,7,560,245,315
+2025-12-23,Headphones,Accessories,Cork,Returning Customer,3,360,165,195
+2025-12-24,Desk,Furniture,Dublin,New Customer,4,1800,1120,680
+2025-12-24,Printer,Technology,Dublin,New Customer,2,500,320,180
+2025-12-25,Monitor,Technology,Dublin,Returning Customer,6,2100,1320,780
+2025-12-25,Desk,Furniture,Limerick,New Customer,2,900,560,340
+2025-12-25,Monitor,Technology,Cork,Returning Customer,4,1400,880,520
+2025-12-26,Keyboard,Accessories,Cork,Returning Customer,4,320,140,180
+2025-12-26,Keyboard,Accessories,Dublin,Returning Customer,4,320,140,180
+2025-12-26,Monitor,Technology,Cork,Returning Customer,2,700,440,260
+2025-12-26,Keyboard,Accessories,Limerick,Returning Customer,2,160,70,90
+2025-12-26,Desk,Furniture,Cork,Returning Customer,1,450,280,170
+2025-12-26,Laptop,Technology,Limerick,Returning Customer,3,3600,2550,1050
+2025-12-27,Monitor,Technology,Cork,Returning Customer,1,350,220,130
+2025-12-27,Headphones,Accessories,Galway,New Customer,5,600,275,325
+2025-12-27,Laptop,Technology,Cork,Returning Customer,7,8400,5950,2450
+2025-12-27,Monitor,Technology,Cork,Returning Customer,1,350,220,130
+2025-12-27,Mouse,Accessories,Galway,Returning Customer,8,360,144,216
+2025-12-28,Desk,Furniture,Cork,Returning Customer,7,3150,1960,1190
+2025-12-30,Keyboard,Accessories,Dublin,Returning Customer,5,400,175,225
+2025-12-30,Printer,Technology,Cork,New Customer,8,2000,1280,720
+2025-12-30,Monitor,Technology,Galway,New Customer,5,1750,1100,650
+2025-12-30,Keyboard,Accessories,Cork,Returning Customer,1,80,35,45
+2025-12-30,Desk,Furniture,Dublin,Returning Customer,5,2250,1400,850
+2025-12-31,Printer,Technology,Dublin,Returning Customer,2,500,320,180
+2025-12-31,Monitor,Technology,Dublin,New Customer,5,1750,1100,650
+2025-12-31,Keyboard,Accessories,Cork,New Customer,6,480,210,270
