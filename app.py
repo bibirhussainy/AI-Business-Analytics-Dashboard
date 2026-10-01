@@ -1004,11 +1004,6 @@ else:
 
     st.markdown("### Start your analysis")
 
-    st.write(
-        "Upload `sales_data.csv` to launch the interactive "
-        "business intelligence dashboard."
-    )
-
     st.info(
         "The dashboard supports CSV and Excel datasets."
     )
