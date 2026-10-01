@@ -93,3 +93,9 @@ This project demonstrates practical skills relevant to Data Analyst, Business In
 ## 👤 Author
 
 **Bibi Ruqaya Hussainy**
+
+## 🌐 Live Demo
+
+Try the deployed dashboard here:
+
+https://ai-business-analytics-dashboard-khxsb8bjplbuvgwdirkhsn.streamlit.app/
